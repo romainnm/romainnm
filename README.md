@@ -1,6 +1,6 @@
 # Hi there! Thank you for stopping by 👋
 
-
+![Header](./github-header-image.png)
 
 Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in front-end technologies and experience in back-end development.
 
