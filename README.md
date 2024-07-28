@@ -1,6 +1,6 @@
-# Hi there, I'm Romain Nim! 👋
+# Hi there! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/your-banner-image-url)
+![Profile Banner](https://user-images.githubusercontent.com/github-header-image (1))
 
 Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in front-end technologies and experience in back-end development.
 
