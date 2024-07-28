@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 
 ## 🌱 What I'm Currently Learning
 
-- Enhancing my Node.js/Express skills by integrating TypeScript and experimenting with Jest for testing.
+- Honing my back-end skills.
 - Exploring the latest versions of Angular.
 
 ## 📫 How to Reach Me
