@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! Thank you for stopping by 👋
 
 ![Header](./github-header-image.png)
 
@@ -31,4 +31,4 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 
 ---
 
-Thanks for visiting my profile! Feel free to connect with me. Let's build something amazing together! 🚀
+Feel free to connect with me. Let's build something amazing together! 🚀
