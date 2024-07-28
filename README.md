@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in front-end technologies and experience in back-end development.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools (Core Stack)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
