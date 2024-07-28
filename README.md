@@ -26,8 +26,6 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 
 ## ⚡ Fun Facts
 
-- I have a Bachelor of Arts in Web Design and an Associates in Information and Technology with a focus on Multimedia.
-- I enjoy exploring new web technologies and staying updated with industry trends.
 - When I'm not coding, I enjoy solving problems through bouldering and releasing my energy with a good run!
 
 ---
