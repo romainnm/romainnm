@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 
 ## ⚡ Fun Facts
 
-- When I'm not coding, I enjoy solving problems through bouldering and releasing my energy with a good run!
+- When I'm not coding, I enjoy solving problems through bouldering!
 
 ---
 
