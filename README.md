@@ -22,12 +22,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 - Exploring the latest versions of Angular.
 
 ## 📫 How to Reach Me
-[Email](mailto:contact@romain-nim.com)
+[Email](mailto:contact@romain-nim.com) - Feel free to connect with me. Let's build something amazing together! 🚀
 
 ## ⚡ Fun Facts
 
 - When I'm not coding, I enjoy solving problems through bouldering!
 
----
-
-Feel free to connect with me. Let's build something amazing together! 🚀
