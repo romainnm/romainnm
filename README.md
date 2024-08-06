@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 
 ## ⚡ Fun Facts
 
-- When I'm not coding, I enjoy solving problems through bouldering! 🧗
+- When I'm not coding, I enjoy solving bouldering problems! 🧗
 - Countries I have lived in: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" width="20" title="France"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png" width="20" title="Australia"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png" width="20" title="Taiwan"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png" width="20" title="USA"/>
 
 
