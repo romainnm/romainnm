@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" style="margin-right: 10px;" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" style="margin-right: 10px;" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" title="Webpack"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" style="margin-right: 10px;" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="Babel"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" style="margin-right: 10px;" /></a>
 
 #### + Backend Technologies
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" style="margin-right: 10px;" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer" title="NestJS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" style="margin-right: 10px;" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="margin-right: 10px;" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring Framework"><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="36" alt="Spring Framework" style="margin-right: 10px;" /></a>
 
 #### + Others
 <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right: 10px;" /></a>
@@ -37,7 +37,6 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="margin-right: 10px;" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" title="Google Cloud"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" style="margin-right: 10px;" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainnm&layout=compact)
 
 ## 🌱 What I'm Currently Learning
 
