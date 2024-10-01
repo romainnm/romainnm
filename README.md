@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 
 ## 🌱 What I'm Currently Learning
 
-- Honing my back-end skills.
 - Exploring the latest versions of Angular.
+- Learning Python.
 
 ## 📫 How to Reach Me
 [Email](mailto:contact@romain-nim.com) - Feel free to connect with me. Let's build something amazing together! 🚀
