@@ -1,7 +1,5 @@
 # Hi there! Thank you for stopping by 👋
 
-![Header](./github-header-image6.png)
-
 Welcome to my GitHub profile! I'm a full-stack developer with a UI/UX Designer background.
 
 ## 🛠️ Technologies & Tools 
