@@ -38,14 +38,3 @@ Welcome to my GitHub profile! I'm a full-stack developer with a UI/UX Designer b
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-
-
-## 🌱 What I'm Currently Learning
-- Upskilling in Django
-
-## ⚡ Fun Facts
-- When I'm not coding, I enjoy running and baking 🏃‍♂️ - 🍞 !
-- Countries I have lived in: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" width="20" title="France"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png" width="20" title="Australia"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png" width="20" title="Taiwan"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png" width="20" title="USA"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainnm)](https://github.com/romainnm/github-readme-stats)
-
